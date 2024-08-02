@@ -31,7 +31,19 @@ si estaba ahi el error cambie la forma en que miraba cuanto faltaba para salir d
 
 ya solo falta pasar el resultado a la ram 1
 
+## suma de numeros en un rango 
 
+primero se plantea en un lenguaje mas avanzado 
+
+{
+    int suma = numero a;
+    int tope = numero b;
+
+    for (int i = 0; i<=numero b; i++)
+    {
+        suma = suma + suma + 1;
+    }
+}
 
 
 
